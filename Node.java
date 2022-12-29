@@ -1,4 +1,5 @@
-public class Node {
+public class Node 
+{
     int x, y, distance;
     
     Node(int x, int y, int dist)
@@ -7,5 +8,4 @@ public class Node {
         this.y = y;
         this.distance = dist;
     }
-    
 }
